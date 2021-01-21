@@ -1,0 +1,18 @@
+{
+  "name": "eslint-config-fergus",
+  "version": "1.0.0",
+  "description": "Standard JS with slight tweaks to my preference.",
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "author": "Fergus Bentley <fergusbentley@gmail.com> (fergcb.uk)",
+  "license": "MIT",
+  "main": "index.js",
+  "dependencies": {
+    "eslint-config-standard": "^16.0.2"
+  },
+  "peerDependencies": {
+    "eslint": ">= 3"
+  }
+}
